@@ -9,4 +9,6 @@ Additional to that, it would be nice to have a low cost handheld particle-counte
 
 To display the values we use a NEXTION Display, its easy to use and powerful in what you can show.
 
+You will get details in the next few days
+
 
